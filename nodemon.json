@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "tester",
+        "MONGO_PASSWORD": "testerpassword",
+        "MONGO_DATABASE": "todolist-dev",
+        "JWT_SECRET": "devjwtsecretaustriacastillo"
+    }
+}
